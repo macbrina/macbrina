@@ -133,3 +133,7 @@
   <img src="https://img.shields.io/github/stars/macbrina?label=Total%20Stars&style=for-the-badge&color=d4a017" /><br/>
   <img src="https://img.shields.io/github/last-commit/macbrina/macbrina?label=Last%20Update&style=for-the-badge&color=6f42c1" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/macbrina/macbrina/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
