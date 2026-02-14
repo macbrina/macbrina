@@ -80,7 +80,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,laravel&perline=8" />
   </td>
    <td>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,nodejs,laravel" />
    </td>
     <td>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,prisma" />
