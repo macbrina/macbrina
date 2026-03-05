@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Precious</h1>
 
 <p align="center">
-  <b>Founder • Developer</b><br/>
+  <b>Founder of FitNudge • Software Developer • Building AI-powered products</b><br/>
   I build and ship products end-to-end - mobile, backend, payments, push, and AI.
 </p>
 
@@ -40,7 +40,33 @@
   <i>AI-powered motivation & accountability for any goal or habit.</i>
 </p>
 
-- 🚀 **FitNudge** - AI-powered motivation and accountability app helping users stay consistent with any goal or habit (AI check-ins, smart reminders, accountability partners, progress tracking).
+<!-- =======================
+        MY PRODUCT
+======================= -->
+<h2 align="center">🚀 My Product</h2>
+
+<p align="center">
+  <b>FitNudge - AI Habit Coach</b><br/>
+  AI-powered motivation & accountability to stay consistent with any goal.
+</p>
+
+<p align="center">
+  <a href="https://fitnudge.app">
+    <img src="https://img.shields.io/badge/Website-fitnudge.app-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/us/app/fitnudge-ai-habit-coach/id6756238718">
+    <img src="https://img.shields.io/badge/App%20Store-iOS-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.fitnudge.app">
+    <img src="https://img.shields.io/badge/Google%20Play-Android-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
+</p>
+
+
+- 🚀 **FitNudge** - AI-powered accountability app helping users stay consistent with any goal or habit.  
+  Website: https://fitnudge.app  
+  iOS: https://apps.apple.com/us/app/fitnudge-ai-habit-coach/id6756238718  
+  Android: https://play.google.com/store/apps/details?id=com.fitnudge.app
 - 🍔 **Chopup** - video-first food delivery experience (discovery → ordering).
 - 🎙️ **AI Podcast Generator** - automated podcast creation pipeline (script → audio → publish).
 - 🛒 **Multi-vendor eCommerce** - marketplace system with sellers, orders, and payments.
